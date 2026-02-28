@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "tourist1",
+      "disliked_ids": [
+        13
+      ],
+      "allergies": [
+        "dairy"
+      ]
+    },
+    {
+      "username": "test_user",
+      "disliked_ids": [],
+      "allergies": []
+    },
+    {
+      "username": "Aaisha",
+      "disliked_ids": [],
+      "allergies": [
+        "dairy"
+      ]
+    },
+    {
+      "username": "Hafsa",
+      "disliked_ids": [],
+      "allergies": [
+        "gluten"
+      ]
+    },
+    {
+      "username": "ali",
+      "disliked_ids": [],
+      "allergies": [
+        "nuts"
+      ]
+    }
+  ]
+}
