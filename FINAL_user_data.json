@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "username": "tourist1",
+      "disliked_ids": [],
+      "allergies": [
+        "dairy"
+      ]
+    },
+    {
+      "username": "aaisha",
+      "disliked_ids": [
+        34,
+        38,
+        46,
+        50,
+        44,
+        27,
+        53,
+        6,
+        5,
+        57,
+        22,
+        65,
+        8,
+        40,
+        63,
+        55,
+        30,
+        41
+      ],
+      "allergies": [
+        "eggs"
+      ]
+    },
+    {
+      "username": "testuser",
+      "disliked_ids": [],
+      "allergies": []
+    }
+  ]
+}
